@@ -12,7 +12,7 @@
 
 ## Установка Node.js, npm, nvm, Yarn
 
-Эта инструкция предоставляет пошаговое руководство по установке Node.js, npm, nvm (Node Version Manager) и Yarn на вашем компьютере.
+Эта инструкция предоставляет пошаговое руководство по установке yNode.js, npm, nvm (Node Version Manager) и Yarn на вашем компьютере.
 
 #### 1. Установка Node.js с помощью nvm (Node Version Manager)
 
