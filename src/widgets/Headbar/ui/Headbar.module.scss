@@ -1,13 +1,58 @@
 .Headbar {
     display: flex;
     align-items: center;
+    justify-content: space-between;
     background: #ffffd3;
     height: 80px;
     width: 100%;
-    color: black
+    color: black;
+    padding-left: 16px;
+    padding-right: 56px;
 }
 
 .route {
     width: 1152px;
-height: 24px;
+    height: 24px;
+    
+    p{
+    margin: 0;
+    }
+}
+
+.logo {
+    width: 136px;
+    height: 32px;
+    margin-right: 124px;
+}
+
+.userInfo {
+    width: 432px;
+    height: 48px;
+    display: flex;
+}
+
+.avatar {
+    border-radius: 9999px;
+    width: 48px;
+    height: 48px;
+}
+
+.userNameBlock {
+    display: flex;
+    flex-direction: column;
+    margin-left: 12px;
+}
+
+.userName {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 156%;
+    color: #000;
+}
+
+.userInstagram{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 143%;
+    color: rgba(0, 0, 0, 0.64);
 }
